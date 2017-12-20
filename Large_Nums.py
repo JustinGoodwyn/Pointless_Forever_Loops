@@ -1,11 +1,11 @@
 
 a = input("choose forever loop one or two (number two may lag... a lot)")
-if a == ("1"):
+if a == ("1") or a == 1:
     x = 2
     while x == x:
         x += x
         print(x)
-if a == ("2"):
+if a == ("2") or a == 2:
     x = 2
     while x == x:
         x *= x
