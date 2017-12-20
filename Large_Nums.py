@@ -1,10 +1,4 @@
-    #def jimmie(a,b):
-    #echo "# Pointless_Forever_Loops" >> README.md
-    #git init
-    #git add README.md
-    #git commit -m "first commit"
-    #git remote add origin https://github.com/JustinGoodwyn/Pointless_Forever_Loops.git
-    #git push -u origin master
+
 a = input("choose forever loop one or two (number two may lag... a lot)")
 if a == ("1"):
     x = 2
