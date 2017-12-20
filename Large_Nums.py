@@ -1,4 +1,4 @@
-
+JUSTIN IS A HACKER!
 a = input("choose forever loop one or two (number two may lag... a lot)")
 if a == ("1") or a == 1:
     x = 2
